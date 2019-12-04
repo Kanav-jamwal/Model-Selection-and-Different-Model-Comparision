@@ -1,4 +1,4 @@
-## Data Analysis and Algorithm on how to select the model complexity using Bootstrap , Subsets etc.
+## Data Analysis and Algorithm on how to select the model using Bootstrap , Subsets size and different model comparision.
 
 1. **1st Python notebook analyses on how to select the best K-value for a given Dataset.**
 
@@ -10,11 +10,12 @@
 ![](Capture2.PNG)
 <br />
 
-3. **Third python notebook explains about the test error and its uncertainty with respect to K and DataSize VS Average error.**
+3. **Third python notebook explains about the test error and its uncertainty with respect to K .**
 
 ![](Capture3.PNG)
 <br />
 
+**DataSize VS Average error**
 ![](Capture4.PNG)
 <br />
  
